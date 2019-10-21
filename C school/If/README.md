@@ -25,3 +25,21 @@ troznamenkasti cijeli broj.
 neparan njihovu razliku, ako je 'a' neparan, a 'b' paran njihov produkt, a ako su oba neparna ispisati - "Ucitana su dva neparna broja".
 
 <strong>Zadatak 4.</strong> Upisati bilo koji broj. Ovisno o ostatku pri dijeljenju s brojem 7 ispisati dan u tjednu (0-nedjelja, 1-ponedjeljak,...).
+
+<hr>
+
+<h1>Laboratorijske vježbe 5</h1>
+
+<strong>Zadatak 1.</strong> Učitati broj. Ispitati da li je istovremeno djeljiv sa 3 i paran.
+
+<strong>Zadatak 2.</strong> Učitati decimalni broj i ispitati da li je cjeli dio broja neparan.
+
+<strong>Zadatak 3.</strong> Učitati broj. Ako je paran ispisati njegov sljedbenik, a ako je neparan njegov prethodnik.
+
+<strong>Zadatak 4.</strong> Učitati tri broja i poredati ih po veličini, od najvećeg do najmanjeg.
+
+<strong>Zadatak 5.</strong> Učitati troznamenkasti broj i ispitati da li je znamenka sa brojnog mjesta desetica veća od znamenke sa
+brojnog mjesta jedinica.
+
+<strong>Zadatak 6.</strong> Učitati dvoznamenkasti broj. Ako je znamenka desetica veća od znamenke jedinica izračunati zbroj znamenki broja, ako je znamenka desetica manja od znamenkejedinica izračunati umnožak znamenki broja, a ako su znamenke iste ispisati poruku
+"Znamenke broja su iste.".
