@@ -69,3 +69,13 @@ ispisati u jednom redu (rezultate ispisati na 2 decimale)
 <b>Varijabla</b> -prostor u memoriji rezerviran za smještaj podataka i kojemu je definirano ime
 
 <b>Deklaracija varijable</b> -postupak kojim se rezervira potrebna količina memorije i toj varijabli daje ime.
+
+<h2>Osnovne aritmetičke operacije</h2>
+
+zbrajanje (simbol: +)    7 + 3 --> 10
+
+oduzimanje (simbol: -)   7 - 3 --> 4
+
+množenje (simbol: *)      7 * 3 --> 21
+
+dijeljenje
