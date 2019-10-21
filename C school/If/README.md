@@ -41,5 +41,5 @@ neparan njihovu razliku, ako je 'a' neparan, a 'b' paran njihov produkt, a ako s
 <strong>Zadatak 5.</strong> Učitati troznamenkasti broj i ispitati da li je znamenka sa brojnog mjesta desetica veća od znamenke sa
 brojnog mjesta jedinica.
 
-<strong>Zadatak 6.</strong> Učitati dvoznamenkasti broj. Ako je znamenka desetica veća od znamenke jedinica izračunati zbroj znamenki broja, ako je znamenka desetica manja od znamenkejedinica izračunati umnožak znamenki broja, a ako su znamenke iste ispisati poruku
+<strong>Zadatak 6.</strong> Učitati dvoznamenkasti broj. Ako je znamenka desetica veća od znamenke jedinica izračunati zbroj znamenki broja, ako je znamenka desetica manja od znamenke jedinica izračunati umnožak znamenki broja, a ako su znamenke iste ispisati poruku
 "Znamenke broja su iste.".
