@@ -64,3 +64,8 @@ ispisati u jednom redu (rezultate ispisati na 2 decimale)
 <li>3.realni dvostruke preciznosti (do 15 dec. mjesta) - 8 bajta</li>
 
 <li>4. znakovni tip - 1 bajt</li>
+
+
+<b>Varijabla</b> -prostor u memoriji rezerviran za smještaj podataka i kojemu je definirano ime
+
+<b>Deklaracija varijable</b> -postupak kojim se rezervira potrebna količina memorije i toj varijabli daje ime.
