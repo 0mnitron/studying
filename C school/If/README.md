@@ -25,4 +25,3 @@ troznamenkasti cijeli broj.
 neparan njihovu razliku, ako je 'a' neparan, a 'b' paran njihov produkt, a ako su oba neparna ispisati - "Ucitana su dva neparna broja".
 
 <strong>Zadatak 4.</strong> Upisati bilo koji broj. Ovisno o ostatku pri dijeljenju s brojem 7 ispisati dan u tjednu (0-nedjelja, 1-ponedjeljak,...).
-
