@@ -50,7 +50,7 @@ ispisati u jednom redu (rezultate ispisati na 2 decimale)
 
 
 <hr>
-
+<i>Teorija</i>
 <hr>
 
 
