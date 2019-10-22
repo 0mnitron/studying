@@ -80,7 +80,7 @@ ispisati u jednom redu (rezultate ispisati na 2 decimale)
 
 <li>dijeljenje (simbol: '/')    6 / 3 --> 2</li>
 
-<li>ostatak cjelobrojnog dijeljenja (simbol: '%')   6 % 3 --> 0     7 % 3 --> 1</li>
+<li>ostatak cjelobrojnog dijeljenja (simbol: '%')   6 % 3 --> 07 % i 3 --> 1</li>
 
 
 <h2>Pravila za pisanje imena varijabli</h2
