@@ -57,30 +57,30 @@ ispisati u jednom redu (rezultate ispisati na 2 decimale)
 
 <h2>Osnovni tipovi podataka u C-u :</h2>
 
-<li>1. cjelobrojni tip - 4 bajta u memoriji</li>
+<li> cjelobrojni tip - 4 bajta u memoriji</li>
 
-<li>2. realni tip jednostruke preciznosti (do 7 dec. mjesta) - 4 bajta</li>
+<li> realni tip jednostruke preciznosti (do 7 dec. mjesta) - 4 bajta</li>
 
-<li>3.realni dvostruke preciznosti (do 15 dec. mjesta) - 8 bajta</li>
+<li> realni dvostruke preciznosti (do 15 dec. mjesta) - 8 bajta</li>
 
-<li>4. znakovni tip - 1 bajt</li>                                                                                                      
+<li> znakovni tip - 1 bajt</li>                                                                                                      
 
 
-<b>Varijabla</b> -prostor u memoriji rezerviran za smještaj podataka i kojemu je definirano ime
+<b> Varijabla</b> -prostor u memoriji rezerviran za smještaj podataka i kojemu je definirano ime
 
 <b>Deklaracija varijable</b> -postupak kojim se rezervira potrebna količina memorije i toj varijabli daje ime.
 
 <h2>Osnovne aritmetičke operacije</h2>
 
-<li>zbrajanje (simbol: +)    7 + 3 --> 10</li>
+<li>zbrajanje (simbol: '+')    7 + 3 --> 10</li>
 
-<li>oduzimanje (simbol: -)   7 - 3 --> 4</li>
+<li>oduzimanje (simbol: '-')   7 - 3 --> 4</li>
 
-<li>množenje (simbol: *)      7 * 3 --> 21</li>
+<li>množenje (simbol: '*')      7 * 3 --> 21</li>
 
-<li>dijeljenje (simbol: /)    6 / 3 --> 2</li>
+<li>dijeljenje (simbol: '/')    6 / 3 --> 2</li>
 
-<li>ostatak cjelobrojnog dijeljenja (simbol: %)   6 % 3 --> 0     7 % 3 --> 1</li>
+<li>ostatak cjelobrojnog dijeljenja (simbol: '%')   6 % 3 --> 0     7 % 3 --> 1</li>
 
 
 <h2>Pravila za pisanje imena varijabli</h2
