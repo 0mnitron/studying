@@ -72,15 +72,15 @@ ispisati u jednom redu (rezultate ispisati na 2 decimale)
 
 <h2>Osnovne aritmetičke operacije</h2>
 
-<li>zbrajanje (simbol: '+')    7 + 3 --> 10</li>
+<li>zbrajanje (simbol: '+')  &nbsp;  7 + 3 --> 10</li>
 
-<li>oduzimanje (simbol: '-')   7 - 3 --> 4</li>
+<li>oduzimanje (simbol: '-')  &nbsp; 7 - 3 --> 4</li>
 
-<li>množenje (simbol: '*')      7 * 3 --> 21</li>
+<li>množenje (simbol: '*')   &nbsp;   7 * 3 --> 21</li>
 
-<li>dijeljenje (simbol: '/')    6 / 3 --> 2</li>
+<li>dijeljenje (simbol: '/')  &nbsp;  6 / 3 --> 2</li>
 
-<li>ostatak cjelobrojnog dijeljenja (simbol: '%')   6 % 3 --> 0 &nbsp; 7 % 3 --> 1</li>
+<li>ostatak cjelobrojnog dijeljenja (simbol: '%') &nbsp;  6 % 3 --> 0 &nbsp; 7 % 3 --> 1</li>
 
 
 <h2>Pravila za pisanje imena varijabli</h2
