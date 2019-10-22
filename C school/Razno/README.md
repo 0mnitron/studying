@@ -63,7 +63,7 @@ ispisati u jednom redu (rezultate ispisati na 2 decimale)
 
 <li>3.realni dvostruke preciznosti (do 15 dec. mjesta) - 8 bajta</li>
 
-<li>4. znakovni tip - 1 bajt</li>
+<li>4. znakovni tip - 1 bajt</li>                                                                                                      
 
 
 <b>Varijabla</b> -prostor u memoriji rezerviran za smještaj podataka i kojemu je definirano ime
@@ -72,10 +72,26 @@ ispisati u jednom redu (rezultate ispisati na 2 decimale)
 
 <h2>Osnovne aritmetičke operacije</h2>
 
-zbrajanje (simbol: +)    7 + 3 --> 10
+<li>zbrajanje (simbol: +)    7 + 3 --> 10</li>
 
-oduzimanje (simbol: -)   7 - 3 --> 4
+<li>oduzimanje (simbol: -)   7 - 3 --> 4</li>
 
-množenje (simbol: *)      7 * 3 --> 21
+<li>množenje (simbol: *)      7 * 3 --> 21</li>
 
-dijeljenje
+<li>dijeljenje (simbol: /)    6 / 3 --> 2</li>
+
+<li>ostatak cjelobrojnog dijeljenja (simbol: %)   6 % 3 --> 0     7 % 3 --> 1</li>
+
+
+<h2>Pravila za pisanje imena varijabli</h2
+
+<li>Sadrži slova i znamenke</li>
+
+<li>prvi znak mora biti slovo</li>
+
+<li>Ne sadrži razmak</li>
+
+<li>Drugi i ostali znakovi mogu biti i slova i znamenke</li>
+
+
+-Varijable imaju asocijalna imena
