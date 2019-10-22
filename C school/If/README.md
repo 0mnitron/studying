@@ -43,3 +43,33 @@ brojnog mjesta jedinica.
 
 <strong>Zadatak 6.</strong> Učitati dvoznamenkasti broj. Ako je znamenka desetica veća od znamenke jedinica izračunati zbroj znamenki broja, ako je znamenka desetica manja od znamenke jedinica izračunati umnožak znamenki broja, a ako su znamenke iste ispisati poruku
 "Znamenke broja su iste.".
+
+
+<hr>
+<i>Teorija</i>
+<hr>
+
+
+
+<h2>Operatori:</h2>
+
+<li> > &nbsp;veće od</li>
+
+<li> >= veće od ili jednako</li>
+
+<li> < &nbsp;manje od</li>
+  
+<li> <= manje od ili jednako</li>
+  
+<li> == jednako ima 2 znaka jednakosti</li>
+
+<li> != različito</li>
+
+
+<h2>Logičke operacije:</h2>
+
+<li> I (simbol: ' && ') -kao rezultat daje istinu ako su svi uvjeti koju povezuju istiniti.</li>
+
+<li> ILI (simbol: ' || ') -kao rezultat daje istinu ako je barem 1 od uvjeta koje povezuje istinit.</li>
+
+<li> NE (simbol: ' ! ') -ako je rezultat uvjeta istinit, tada je rezultat log. operacije laž i obrnuto.</li>
