@@ -3,7 +3,7 @@
 <strong>Zadatak 1.</strong> Upisati dva broja i nakon toga broj 1 ako brojeve želimo zbrojiti, broj 2 ako ih želimo pomnožiti, broj 3 ako 
 želimo izračunati njihovu razliku i broj 4 ako ih želimo podjeliti.
 
-<strong>Zadatak 2.</strong> Upisati broj i nakon toga slovo a za ispitivanje da li je realan ili slovo c za ispitivanje da li je negativan cijeli.
+<strong>Zadatak 2.</strong> Upisati broj i nakon toga slovo a za ispitivanje da li je prirodan, slovo b da li je realan ili slovo c za ispitivanje da li je negativan cijeli.
 
 <strong>Zadatak 3.</strong> Učitati broj i nakon toga slovo a ako korisnik želi ispitati da li je broj realan, slovo b ako korisnik želi ispitati da li je broj negativan cijeli i skovo d ako ne želi ispitati ništa.
 
