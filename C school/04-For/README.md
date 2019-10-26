@@ -10,5 +10,5 @@
 
 <strong>Zadatak 5.</strong> Upisati sto brojeva i ispisati najveći.
 
-<strong>Zadatak 6.</strong> Upisati sto brojeva i ispisati najmanji. Predvidjeti da mogu biti upisani svi isti brojevi.
+<strong>Zadatak 6. / 6,2</strong> Upisati sto brojeva i ispisati najmanji. Predvidjeti da mogu biti upisani svi isti brojevi.
 
