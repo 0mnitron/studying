@@ -3,7 +3,7 @@ int main(){
   int i,prost=0;
   float br;
   
-  printf("\nUpisi broj: ");
+  printf("\nUpisi prirodni broj: ");
   scanf("%f",&br);
   
   while(br==(int)br && br>0){
@@ -22,7 +22,7 @@ int main(){
 
     prost=0;
 
-    printf("\nUpisi sljedeci broj: ");
+    printf("\nUpisi sljedeci prirodni broj: ");
     scanf("%f",&br);
   }
   return 0;
