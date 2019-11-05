@@ -2,7 +2,7 @@
 int main(){
   int br,des;
 
-  printf("\nUpisi prvi broj: ");
+  printf("\nUpisi prvi troznamenkasti broj: ");
   scanf("%d",&br);
 
   while(br>=100 && br<1000){
@@ -14,7 +14,7 @@ int main(){
       printf("\nZnamenka desetica je neparna.");
     }
 
-    printf("\nUpisi sljedeci broj: ");
+    printf("\nUpisi sljedeci troznamenkasti broj: ");
     scanf("%d",&br);
   }
 
