@@ -10,6 +10,8 @@
 
 <strong>Zadatak 5.</strong> Učitavati brojeve dok se upisuju prirodni. Za svaki prirodni broj ispitati da li je prost.
 
+<strong>Zadatak 6.</strong> Učitavati znakove dok se upisuju slova. Usporediti broj upisanih velikih i malih slova.
+
 <hr>
 <h1>Laboratorijske vježbe 9</h1>
 
