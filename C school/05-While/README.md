@@ -30,6 +30,17 @@
 <strong>Zadatak 7.</strong> Učitavati znakove dok se ne učita slovo z(Z). Koliko je znakova učitano i za svaki učitani znak ispiši taj znak i njegov ASCII kod.
 
 <hr>
+<h1>Laboratorijske vježbe 10</h1>
+
+<strong>Zadatak 1.</strong> Zbrojiti sve brojeve djeljive sa 11 od 1 do 40.
+
+<strong>Zadatak 2.</strong> Učitati 10 brojeva. Koliko je učitano brojeva koji su veći od 10, a manji od 20 ?
+
+<strong>Zadatak 3.</strong> Učitavati brojeve dok se ne učita 0. Kolika je aritmetička sredina učitanih brojeva ?
+
+<strong>Zadatak 4.</strong> Učitati n brojeva. Ispisati najveći od učitanih brojeva. 
+
+<hr>
 
 <li>Omogućava ponavljanje naredbi dok je ispunjen postojeći uvjet.</li>
 
