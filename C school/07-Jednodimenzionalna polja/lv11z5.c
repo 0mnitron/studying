@@ -14,7 +14,7 @@ int main(){
 
   printf("\nZbroj prvog i drugog polja: ");
   for(i=0; i<5; i++){
-    printf("\n%d", c[i]);
+    printf("\n%d = %d + %d ", c[i], a[i], b[i]);
   }
 
   return 0;
