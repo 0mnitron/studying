@@ -12,7 +12,7 @@ int main(){
     if(rec[i] == ' '){
       raz++;
     }
-    if(raz == 2){
+    if(raz == 1){
       printf("%c", rec[i]);
     }
   }
