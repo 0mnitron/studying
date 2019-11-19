@@ -3,7 +3,7 @@ int main(){
   float br;
   int i, prost=0, j;
 
-  for(i=0; i<5; i++){
+  for(i=0; i<100; i++){
     do{
       printf("\nUpisi prirodni broj: ");
       scanf("%f", &br);
