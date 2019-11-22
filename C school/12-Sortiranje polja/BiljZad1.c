@@ -16,8 +16,7 @@ int main(){
     }
   }
 
-  printf("\nVrijednosti u polju sortirane od najmanje do najvece su:\n"):
-
+  printf("\nVrijednosti u polju sortirane od najmanje do najvece su:\n");
   for(i=0; i<100; i++){
     printf("%d ",a[i]);
   }
