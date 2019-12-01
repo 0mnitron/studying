@@ -8,4 +8,10 @@
 
 <strong>Zadatak 5.</strong> Učitati 5 brojeva u polje. Zatim unijeti broj i elemente polja uvećati za taj broj. Novo polje sortirati silazno i ispisati!
 
-<strong>Zadatak 6.</strong> 
+<strong>Zadatak 6.</strong> Učitati u polje 10 brojeva. Formirati novo polje od parnih elementa prvog polja i ispisati ga uzlazno!
+
+<strong>Zadatak 7.</strong> Učitati rečenicu. Sortirati posljednju riječ u rečenici silazno.
+
+<strong>Zadatak 8.</strong> Učitati rečenicu. Slova prve riječi sortirati po abecedi (uzlazno). Ispisati rečenicu nakon sortiranja!
+
+<strong>Zadatak 9.</strong>
