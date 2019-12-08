@@ -17,6 +17,7 @@ int main(){
     }
     if(raz==2 && rec[i]==slovo && (rec[i] == 'a' || rec[i] == 'e' || rec[i] == 'i' || rec[i] == 'o' || rec[i] == 'u'  ||  rec[i] == 'A' || rec[i] == 'E' || rec[i] == 'I' || rec[i] == 'O' || rec[i] == 'U') ){
       ima = 1;
+      break;
     }
   }
 
