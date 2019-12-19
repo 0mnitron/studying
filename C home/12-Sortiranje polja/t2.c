@@ -35,7 +35,6 @@ int main(){
     }  
   }
 
-  printf("\nSortirane vrijednosti: \n");
   for(i=poc; i<kraj-1; i++){
     for(j=i+1; j<kraj; j++){
       if(rec[i] > rec[j]){    //promjeniti u < za sortiranje od z do a
@@ -46,6 +45,7 @@ int main(){
     }
   }
 
+  printf("\nSortirane vrijednosti: \n");
   printf("\n%s",rec);
 
   return 0;
