@@ -19,3 +19,15 @@
 <h1>Laboratorijske vježbe </h1>
 
 <strong>Zadatak 1.</strong> 
+
+<hr>
+
+<h1>Test</h1>
+
+<strong>Zadatak 1.</strong> Upisati 100 slova. Mala slova sortirati od A do Z, a velika od Z do A.
+
+<strong>Zadatak 2.</strong> Upisati rečenicu i sortirati predpredzanju riječ od Z do A.
+
+<strong>Zadatak 3.</strong> Upisati rečenicu i naknadno slovo. Sortirati prvu riječ koja počinje tim slovom.
+
+<strong>Zadatak 4.</strong> Upisati 100 realnih brojeva. Prvu polovinu polja sortirati prema veličini stotnina od max. prema min. Drugu polovinu polja sortirati po stoticama od min. prema max.
