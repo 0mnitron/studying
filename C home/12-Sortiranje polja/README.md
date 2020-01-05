@@ -15,3 +15,19 @@
 <strong>Zadatak 8.</strong> Učitati rečenicu. Slova prve riječi sortirati po abecedi (uzlazno). Ispisati rečenicu nakon sortiranja!
 
 <strong>Zadatak 9.</strong>
+
+
+
+<strong>Zadatak 1.</strong> Upisati 100 brojeva, sortirati ih po trecinama 1.uzlazno, 2.silazno, 3.uzlazno
+
+<strong>Zadatak 2.</strong> Ucitati 100 brojeva. Sortirati brojeve od najveceg do najmanjeg po tisucninama
+
+<strong>Zadatak 3.</strong> Učitati rečenicu i traženo slovo. Sortirati prvu riječ čije je početno slovo traženo Sortirati ju od (a-z ili z-a)
+
+<strong>Zadatak 4.</strong> Ucitati recenicu. Sortirati predpredzadnju rijec od z do a
+
+<strong>Zadatak 5.</strong> Ucitati ukupno 100 cijelih i realnih brojeva. Realne sortirati uzlazno, a cijeli silazno.
+
+<strong>Zadatak 6.</strong> Upisati 100 velikih i malih slova. Sva mala poredati od a do z, a velika od z do a
+
+<strong>Zadatak 7.</strong> Učitati 5 realnih brojeva i sortirati ih od manjeg prema većem po veličini njihovih tisucnina
