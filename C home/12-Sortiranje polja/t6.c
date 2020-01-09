@@ -1,4 +1,3 @@
-//Obavezno pronaći kraće rješenje !!
 #include <stdio.h>
 int main(){
   char slovo[10], t;
@@ -46,7 +45,6 @@ int main(){
     }
   }
 
-  printf("%d",x);
   printf("\nSortirane vrijednosti: \n");
   for(i=0; i<10; i++){
     printf("%c ",slovo[i]);
