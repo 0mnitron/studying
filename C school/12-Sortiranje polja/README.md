@@ -31,3 +31,5 @@
 <strong>Zadatak 3.</strong> Upisati rečenicu i naknadno slovo. Sortirati prvu riječ koja počinje tim slovom.
 
 <strong>Zadatak 4.</strong> Upisati 100 realnih brojeva. Prvu polovinu polja sortirati prema veličini stotnina od max. prema min. Drugu polovinu polja sortirati po stoticama od min. prema max.
+
+<strong>Zadatak 5.</strong> Upisati rečeniicu i nakon toga slova riječi koja završava slovom a sortirati po abecedi od A do Z.
