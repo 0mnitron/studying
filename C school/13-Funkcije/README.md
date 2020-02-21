@@ -19,3 +19,13 @@
 <h1>Laboratorijske vježbe 5</h1>
 
 <strong>Zadatak 1.</strong> Učitati broj. U funkciji izračunati njegov kub. Rezultat ispisati u glavnom dijelu programa.
+
+<hr>
+
+Labos test
+
+1.Upisati 5 troznamenkastih brojeva i u funkciji izračunati i ispisati aritmetičku sredinu njegovih parnih znamenki.
+
+2.Upisati 5 realnih i cijelih brojeva i u funkciji ispisati najvecu znamenku tisućnina, stotnina i desetnina za svaki broj
+
+3.Upisati 4 realna broja (2 znamenke prije i 2 znamenke poslije decimalne točke) i u funkiciji ispisati broj sa zarotiranim znamenkama uljevo. (npr 12.34  -> 23.41).
