@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 char slova (char x, char y, char z);
 int main(){
   char a, b, c, min;
