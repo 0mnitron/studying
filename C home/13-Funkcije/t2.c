@@ -17,7 +17,7 @@ void najveci(float x){
 
   if(x != (int)x){
     tis = (int)(x*1000)%10;
-   sto = (int)(x*100)%10;
+    sto = (int)(x*100)%10;
     des = (int)(x*10)%10;
 
     max = tis;
@@ -30,5 +30,6 @@ void najveci(float x){
 
     printf("\nNajveca znamenka tisucnina, stotnina i desetnina ucitanog broja je znamenka %d", max);
   }
+  
   return;
 }
