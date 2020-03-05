@@ -22,9 +22,9 @@ int main(){
   }
 
   if(ima == 1){
-    printf("\nU posljednjoj rijeci se pojavljuje naknadno upisano slovo.");
+    printf("\nU posljednjoj rijeci se pojavljuje naknadno upisano slovo %c", slovo);
   }else{
-    printf("\nU posljednjoj rijeci se ne pojavljuje naknadno upisano slovo.");
+    printf("\nU posljednjoj rijeci se ne pojavljuje naknadno upisano slovo %c", slovo);
   }
 
   return 0;
