@@ -10,6 +10,6 @@
 
 <hr>
 
-<h1>Bilježnica</h1>
+<h1>Laboratorijske vježbe 6</h1>
 
 <strong>Zadatak 1.</strong> Zadana je stranica kvadrata. Za 1-izračunaj opseg kvadrata, za 2- izračunaj i ispiši površinu kvadrata, a za 3-izračunaj dijagonalu kvadrata.
