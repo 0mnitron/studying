@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-  int a, b, i, djel1, djel2, maxDjel, min;
+  int a, b, i, djel, min;
   int *poka, *pokb;
 
   poka = &a;
@@ -15,18 +15,12 @@ int main(){
   }
 
   for(i=1; i<=min; i++){
-    if(*poka%i == 0){
-      djel1 = i;
-    }
-    if(*pokb%i == 0){
-      djel2 = i;
-    }
-    if(djel1 == djel2){
-      maxDjel = djel1;
+    if(*poka%i == 0 && *pokb%i == 0){
+      djel = i;
     }
   }
   
-  printf("\nNajveci zajednicki djelitelj upisanih brojeva je %d", maxDjel);
+  printf("\nNajveci zajednicki djelitelj upisanih brojeva je %d", djel);
 
   return 0;
 }
