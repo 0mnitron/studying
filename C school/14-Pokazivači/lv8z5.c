@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-  int a, b, i, djel1, djel2, maxDjel;
+  int a, b, i, djel1, djel2, maxDjel, min;
   int *poka, *pokb;
 
   poka = &a;
@@ -9,7 +9,12 @@ int main(){
   printf("\nUpisi dva prirodna broja: ");
   scanf("%d %d", poka, pokb);
 
-  for(i=1; i<100; i++){
+  min = *poka;
+  if(*pokb < min){
+    min = *pokb;
+  }
+
+  for(i=1; i<=min; i++){
     if(*poka%i == 0){
       djel1 = i;
     }
