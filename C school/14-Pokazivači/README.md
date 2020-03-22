@@ -27,3 +27,17 @@
 <strong>Zadatak 4.</strong> Upisivati brojeve dok nisu nula. Ispisati koliko je upisano brojeva čija je vrijednost između 10 i 20. Ispisati najmanji upisani broj.
 
 <strong>Zadatak 5.</strong> Upisati vrijednost znakovne varijable c. Ispitati koje je slovo upisano: ako je upisano slovo 'j', 'd', 't', 'c' ili 'p', tada numeričkoj varijabli a dodijeliti vrijednost broja čiji opis počinje upisanim slovom. Ispisati taj broj slovima. Ispisati i vrijednost varijable a. Ako je upisano neko drugo slovo, samo ga ispisati.
+
+<hr>
+
+<h1>Laboratorijske vježe 8</h1>
+
+<strong>Zadatak 1.</strong> Upisati vrijednosti za tri varijable, x, y i z te im zamijeniti vrijednosti kružno na sljedeći način:            x -> y-> z-> x
+
+<strong>Zadatak 2.</strong> Upisati tri broja i ispisati najmanji. (Predvidjeti mogućnost da korisnik upiše sva tri jednaka broja.)
+
+<strong>Zadatak 3.</strong> Upisati tri mala slova i poredati ih po abecedi od a do z.
+
+<strong>Zadatak 4.</strong> Upisati prirodan broj i ispitati da li je prost.
+
+<strong>Zadatak 5.</strong> Upisati dva prirodna broja i ispisati njihov najveći zajednički djelitelj.
