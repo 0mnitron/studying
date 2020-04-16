@@ -14,6 +14,8 @@
 
 <strong>Zadatak 7.</strong> Učitati rečenicu i ispisati predzadnju riječ.
 
+<strong>Zadatak 8.</strong> Upisati riječ i njena slova sortirati po abecedi od a do z. Paziti na velika i mala slova.
+
 <hr>
 
 <h1>Laboratorijske vježe 7</h1>
