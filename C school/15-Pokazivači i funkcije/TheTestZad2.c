@@ -20,7 +20,7 @@ void sort(int *pok, int n){
   int i,j,t,x;
 
   for(i=0; i<n-1; i++){
-    for(j=i+i; j<n; j++){
+    for(j=i+1; j<n; j++){
       if(*(pok+i)%2 != 0){
         t = *(pok+i);
         *(pok+i) = *(pok+j);
@@ -37,7 +37,7 @@ void sort(int *pok, int n){
   }
 
   for(i=0; i<x-1; i++){
-    for(j=i+i; j<x; j++){
+    for(j=i+1; j<x; j++){
       if(*(pok+i) < *(pok+j)){
         t = *(pok+i);
         *(pok+i) = *(pok+j);
@@ -46,7 +46,7 @@ void sort(int *pok, int n){
     }
   }
   for(i=x; i<n-1; i++){
-    for(j=i+i; j<n; j++){
+    for(j=i+1; j<n; j++){
       if(*(pok+i) > *(pok+j)){
         t = *(pok+i);
         *(pok+i) = *(pok+j);
