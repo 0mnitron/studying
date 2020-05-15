@@ -4,7 +4,7 @@ int main(){
   FILE *fp;
   char ime[15], prezime[15];
   int i;
-  float uspjeh[5], zbr=0, arsr;
+  float uspjeh, zbr=0, arsr;
 
   fp=fopen("ucenici.txt","w");
   if(fp==NULL){
@@ -13,8 +13,8 @@ int main(){
   }
   for(i=0; i<5; i++){
     printf("\nUpisi ime i prezime ucenika i njegov uspjeh: ");
-    scanf("%s %s %f",ime, prezime, &uspjeh[i]);
-    fprintf(fp,"\n%s %s %f", ime, prezime, uspjeh[i]);
+    scanf("%s %s %f",ime, prezime, &uspjeh);
+    fprintf(fp,"\n%s %s %f", ime, prezime, uspjeh);
   }
 
   fclose(fp);
@@ -27,8 +27,8 @@ int main(){
   }
 
   for(i=0; i<5; i++){
-    fscanf(fp,"%s %s %f",ime, prezime, &uspjeh[i]);
-    zbr = zbr + uspjeh[i];
+    fscanf(fp,"%s %s %f",ime, prezime, &uspjeh);
+    zbr = zbr + uspjeh;
   }
   arsr = (float)zbr/5;
   fclose(fp);
@@ -40,9 +40,9 @@ int main(){
   }
   printf("\nUcenici s prosjekom vecim od prosjeka prosjeka ucenika: ");
   for(i=0; i<5; i++){
-    fscanf(fp,"%s %s %f",ime, prezime, &uspjeh[i]);
-    if(uspjeh[i] > arsr){
-      printf("\n%s  %s (%.2f)", ime, prezime, uspjeh[i]);
+    fscanf(fp,"%s %s %f",ime, prezime, &uspjeh);
+    if(uspjeh > arsr){
+      printf("\n%s  %s (%.2f)", ime, prezime, uspjeh);
     }
   }
   fclose(fp);
