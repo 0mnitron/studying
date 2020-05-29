@@ -14,6 +14,10 @@
 
 <strong>Zadatak 7.</strong> Upisati 100 realnih brojeva i u funkciji za svaki izračunati i ispisati aritmetičku sredinu znamenki desetnina, stotnina i tisućnina.
 
+<strong>Zadatak 8.</strong> Učitati koordinate vrhova za 100 jednakostraničnih trokuta i u funkciji za svaki trokut izračunati opseg i površinu.
+
+<strong>Zadatak 9.</strong> Učitati rečenicu i u funkciji za svako malo slovo ispisati koliko je slova od njega do kraja abecede, a za svako veliko koliko je slova od njega do početka abecede. 
+
 <hr>
 
 <h1>Laboratorijske vježbe 5</h1>
