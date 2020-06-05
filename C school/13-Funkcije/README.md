@@ -21,6 +21,9 @@
 <strong>Zadatak 10.</strong> Učitati ukupno 100 realnih i četveroznamenkastih cijelih brojeva i u funkciji za svaki cijeli broj ispitati da li je palindrom (npr. 1221 je palindrom).
 
 <strong>Zadatak 11.</strong> Učitati 100 realnih brojeva sa po dvije znamenke u cijelom i dvije u decimalnom dijelu broja i u funkciji svaki broj ispisati bez njegovih parnih znamenki (npr. za broj 12.34 treba ispisati 1.3).
+
+<strong>Zadatak 12.</strong> Učitati 100 znakova i u funkciji za svaki znak koji predstavlja slovo ispitati da li je ASCII kôd slova prost.
+
 <hr>
 
 <h1>Laboratorijske vježbe 5</h1>
