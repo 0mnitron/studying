@@ -33,3 +33,6 @@ int main(){
     printf("\nUcenik: %s %s (%d sati izostanaka)\n", uc.ime, uc.prez, uc.izo); 
   }
   printf("\n");  
+  
+  return 0;
+}
